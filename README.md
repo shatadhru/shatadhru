@@ -1,148 +1,235 @@
-# SHATADHRU
+ <!-- SHATADHRU | Professional boxed GitHub profile -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DD7627,100:F5F5F5&height=230&section=header&text=Shatadhru&fontSize=65&fontColor=F5F5F5&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Software%20Builder&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Shatadhru profile banner" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=DD7627&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Developing+Scalable+Backend+Systems;Creating+Developer+Tools+%26+SaaS;Turning+Ideas+Into+Software" alt="Animated developer introduction" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=DD7627&height=8" width="100%" alt="" />
 
-<p align="center">
-  <a href="https://github.com/shatadhru">
-    <img src="https://img.shields.io/badge/GitHub-181818?style=for-the-badge&logo=github&logoColor=F5F5F5" alt="GitHub" />
-  </a>
-  <img src="https://img.shields.io/badge/FULL--STACK-DEVELOPER-DD7627?style=for-the-badge" alt="Full-stack developer" />
-  <img src="https://img.shields.io/badge/BUILDING-SOFTWARE-F5F5F5?style=for-the-badge&labelColor=DD7627" alt="Building software" />
-</p>
+<br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=44&duration=1&pause=999999&color=000000&center=true&vCenter=true&width=750&height=75&lines=SHATADHRU" alt="Shatadhru" />
 
-## About Me
+**FULL-STACK DEVELOPER · SOFTWARE BUILDER**
 
-I build modern web applications, backend systems, developer tools, and scalable software products.
+Building modern applications, scalable systems, and useful developer tools.
 
-My focus is on clean architecture, maintainable code, and turning practical ideas into useful software.
+<br/>
 
-- Full-stack application development
-- Backend engineering and database design
-- Developer tools and reusable frameworks
-- SaaS products and AI-powered applications
+<a href="https://github.com/shatadhru?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-000000?style=for-the-badge&labelColor=DD7627" alt="Explore projects" />
+</a>
+<a href="https://github.com/shatadhru">
+<img src="https://img.shields.io/badge/GITHUB-PROFILE-DD7627?style=for-the-badge&labelColor=000000" alt="GitHub profile" />
+</a>
 
-**Build with purpose. Engineer with precision.**
+<br/><br/>
+
+</div>
 
 ---
 
-## Technology Stack
+<div align="center">
 
-### Frontend
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=1&pause=999999&color=DD7627&center=true&vCenter=true&width=500&height=40&lines=01+%2F+ABOUT+ME" alt="About me" />
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=light" alt="Frontend technologies" />
-</p>
-
-### Backend & Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&theme=light" alt="Backend and databases" />
-</p>
-
-### Tools & Platforms
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,docker&theme=light" alt="Development tools" />
-</p>
-
-### Exploring AI & Automation
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch&theme=light" alt="AI technologies" />
-</p>
-
----
-
-## Featured Projects
+</div>
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">NextLoad</h3>
-      <p align="center">
-        <a href="https://github.com/shatadhru/NextLoad">
-          <img src="https://img.shields.io/badge/EXPLORE-NEXTLOAD-DD7627?style=for-the-badge&logo=github&logoColor=F5F5F5" alt="Explore NextLoad" />
-        </a>
-      </p>
-      A modern application starter built around Next.js, Payload CMS, authentication, and database integration.
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-181818?style=flat-square&logo=nextdotjs&logoColor=F5F5F5" alt="Next.js" />
-        <img src="https://img.shields.io/badge/Payload-DD7627?style=flat-square&logo=payloadcms&logoColor=F5F5F5" alt="Payload CMS" />
-        <img src="https://img.shields.io/badge/MongoDB-F5F5F5?style=flat-square&logo=mongodb&logoColor=DD7627" alt="MongoDB" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Fastmerch</h3>
-      <p align="center">
-        <a href="https://github.com/shatadhru/Fastmerch">
-          <img src="https://img.shields.io/badge/EXPLORE-FASTMERCH-DD7627?style=for-the-badge&logo=github&logoColor=F5F5F5" alt="Explore Fastmerch" />
-        </a>
-      </p>
-      A developer-focused platform exploring schema-driven development, reusable CRUD interfaces, and customizable application architecture.
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-DD7627?style=flat-square&logo=typescript&logoColor=F5F5F5" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/React-F5F5F5?style=flat-square&logo=react&logoColor=DD7627" alt="React" />
-        <img src="https://img.shields.io/badge/Developer_Tools-181818?style=flat-square" alt="Developer tools" />
-      </p>
-    </td>
-  </tr>
+<tr>
+<td>
+
+I'm a full-stack developer focused on building practical software with clean architecture and thoughtful user experiences.
+
+I enjoy developing web applications, backend systems, reusable developer tools, and SaaS products.
+
+</td>
+</tr>
+<tr>
+<td>
+
+**CORE INTERESTS**
+
+`Full-Stack Development` · `Backend Engineering` · `SaaS` · `Developer Tools` · `System Design`
+
+</td>
+</tr>
 </table>
 
 ---
 
-## GitHub Analytics
+<div align="center">
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shatadhru&show_icons=true&rank_icon=github&hide_border=true&bg_color=F5F5F5&title_color=DD7627&icon_color=DD7627&text_color=292929&ring_color=DD7627" alt="GitHub statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shatadhru&layout=compact&hide_border=true&bg_color=F5F5F5&title_color=DD7627&text_color=292929" alt="Most used languages" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=1&pause=999999&color=DD7627&center=true&vCenter=true&width=500&height=40&lines=02+%2F+TECHNOLOGY+STACK" alt="Technology stack" />
 
-<p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=shatadhru&hide_border=true&background=F5F5F5&ring=DD7627&fire=DD7627&currStreakLabel=DD7627&sideLabels=292929&currStreakNum=292929&sideNums=DD7627&dates=666666" alt="GitHub contribution streak" />
-</p>
+</div>
 
-### Contribution Activity
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shatadhru&bg_color=F5F5F5&color=292929&line=DD7627&point=DD7627&area=true&hide_border=true" width="100%" alt="GitHub contribution graph" />
-</p>
+**01 — LANGUAGES**
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css&theme=light" alt="Programming languages" />
+
+</td>
+<td width="50%" align="center" valign="top">
+
+**02 — FRONTEND**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=light" alt="Frontend technologies" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+
+**03 — BACKEND & DATABASES**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&theme=light" alt="Backend and databases" />
+
+</td>
+<td width="50%" align="center" valign="top">
+
+**04 — TOOLS & PLATFORMS**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux&theme=light" alt="Development tools" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Current Interests
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/01-Full--Stack_Engineering-DD7627?style=for-the-badge" alt="Full-stack engineering" />
-  <img src="https://img.shields.io/badge/02-Backend_Architecture-292929?style=for-the-badge" alt="Backend architecture" />
-  <img src="https://img.shields.io/badge/03-Developer_Tools-DD7627?style=for-the-badge" alt="Developer tools" />
-  <img src="https://img.shields.io/badge/04-AI--Powered_Software-292929?style=for-the-badge" alt="AI-powered software" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=1&pause=999999&color=DD7627&center=true&vCenter=true&width=500&height=40&lines=03+%2F+FEATURED+PROJECTS" alt="Featured projects" />
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PROJECT-01-DD7627?style=for-the-badge&labelColor=000000" alt="Project one" />
+
+### NextLoad
+
+**Modern application boilerplate**
+
+A reusable Next.js and Payload CMS foundation designed to streamline application development and establish a practical project structure.
+
+</div>
+
+**TECHNOLOGIES**
+
+`Next.js` `Payload CMS` `MongoDB`
+
+<div align="center">
+
+<a href="https://github.com/shatadhru/NextLoad">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-000000?style=for-the-badge&labelColor=DD7627" alt="View NextLoad repository" />
+</a>
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PROJECT-02-DD7627?style=for-the-badge&labelColor=000000" alt="Project two" />
+
+### Fastmerch
+
+**Schema-driven application building**
+
+A commerce-focused project exploring reusable data models and customizable application building blocks.
+
+</div>
+
+**TECHNOLOGIES**
+
+`TypeScript` `Node.js` `Schema Design`
+
+<div align="center">
+
+<a href="https://github.com/shatadhru/Fastmerch">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-000000?style=for-the-badge&labelColor=DD7627" alt="View Fastmerch repository" />
+</a>
+
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Connect With Me
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/shatadhru">
-    <img src="https://img.shields.io/badge/GitHub-181818?style=for-the-badge&logo=github&logoColor=F5F5F5" alt="GitHub profile" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-DD7627?style=for-the-badge&logo=linkedin&logoColor=F5F5F5" alt="LinkedIn profile" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=1&pause=999999&color=DD7627&center=true&vCenter=true&width=500&height=40&lines=04+%2F+GITHUB+STATISTICS" alt="GitHub statistics" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DD7627,100:F5F5F5&height=120&section=footer" width="100%" alt="Orange and off-white footer" />
-</p>
+</div>
 
-<p align="center">
-  <b>Building useful software, one commit at a time.</b>
-</p>
+<table>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shatadhru&show_icons=true&hide_border=true&bg_color=F5F5F5&title_color=DD7627&text_color=000000&icon_color=DD7627&ring_color=DD7627" width="100%" alt="GitHub statistics" />
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shatadhru&layout=compact&hide_border=true&bg_color=F5F5F5&title_color=DD7627&text_color=000000" width="100%" alt="Most used languages" />
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+<img src="https://streak-stats.demolab.com?user=shatadhru&hide_border=true&background=F5F5F5&ring=DD7627&fire=DD7627&currStreakLabel=000000&sideLabels=000000&currStreakNum=000000&sideNums=000000&dates=555555" width="80%" alt="GitHub contribution streak" />
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=1&pause=999999&color=DD7627&center=true&vCenter=true&width=500&height=40&lines=05+%2F+CONTRIBUTION+ACTIVITY" alt="Contribution activity" />
+
+</div>
+
+<table>
+<tr>
+<td align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shatadhru&bg_color=F5F5F5&color=000000&line=DD7627&point=DD7627&area=true&hide_border=true" width="100%" alt="GitHub contribution activity" />
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=DD7627&height=5" width="100%" alt="" />
+
+<br/>
+
+
+<sub>Thoughtful engineering. Useful products. Continuous improvement.</sub>
+
+<br/><br/>
+
+<a href="https://github.com/shatadhru?tab=repositories">ALL PROJECTS</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/shatadhru">GITHUB PROFILE</a>
+
+<br/><br/>
+
+
+</div>
